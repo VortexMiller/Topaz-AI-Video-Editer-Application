@@ -1,9 +1,7 @@
-# Topaz-AI-Video-Editer-Application
-Desktop application from Topaz Labs that uses AI models to upscale, enhance and stabilise video.
 # Applications of artificial intelligence – AI video upscaling and enhancement
 
 <div align="center">
-  <img src="assets/AI.png" width="470" alt="Applications of artificial intelligence logo"/>
+  <img src="assets/icon.webp" width="470" alt="Applications of artificial intelligence logo"/>
 </div>
 
 <br>
