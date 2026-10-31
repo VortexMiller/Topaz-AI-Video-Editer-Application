@@ -1,7 +1,7 @@
 # Applications of artificial intelligence – AI video upscaling and enhancement
 
 <div align="center">
-  <img src="Av.png" width="470" alt="Applications of artificial intelligence logo"/>
+  <img src="Av.jpg" width="470" alt="Applications of artificial intelligence logo"/>
 </div>
 
 <br>
